@@ -1,2 +1,2 @@
 
-* This repository is nil, all of my projects in regards of Common Lisp are in a private server.  
+* This repository is nil, all of my projects that's written on Common Lisp language are in a private server.  
